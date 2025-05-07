@@ -1,6 +1,7 @@
 package com.example.hack1.domain;
 
 public enum Role {
-    USER,
-    ADMIN
+    ROLE_SPARKY_ADMIN,
+    ROLE_COMPANY_ADMIN,
+    ROLE_USER
 }
